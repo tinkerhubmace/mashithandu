@@ -3,17 +3,17 @@
 
 ###  Just 3 steps 💡
 - Create a fork of this repo (tinkerhubmace/mashithandu) to your account.
--
-- Create a readme file inside the Add your contribution. (How about you introduce or write something about yourself!)
+- Create a readme file with your name (eg: Kiran.md) inside 'TinkerHub Mace' Folder and add your contribution. (How about you introduce or write something about yourself!)
 - Create a pull request.
 
-### Create a pull request
+### Creating a pull request
 
-After committing and pushing your changes go to your fork and create a pull request to your org's repo ( the repo from where you initially forked ). Make sure you give a good title and description for your pull request.
+After committing and pushing your changes go to your fork and create a pull request to the repo (tinkerhubmace/mashithandu). Make sure you give a good title and description for your pull request.
 
 ## Resources
 
 A list of Git/GitHub-related resources that might be helpful here.
+<a href='https://guides.github.com/introduction/git-handbook/'></a>
 
 ## Contacts
 
