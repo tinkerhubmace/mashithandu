@@ -3,9 +3,7 @@
 
 ###  Just 3 steps 💡
 - Create a fork of this repo (tinkerhubmace/mashithandu) to your account.
-<br>
 ![](./images/Img1.jpg)
-<br>
 - Create a readme file with your name (eg: Kiran.md) inside 'TinkerHub Mace' Folder and add your contribution. (How about you introduce or write something about yourself!)
 <br>
 ![](./images/Img2.jpg)
