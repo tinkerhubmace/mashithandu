@@ -3,8 +3,9 @@
 
 ## Instructions for students
 
-- Instruction 1
-- Instruction 2
+- Create YourName.md file in the TinkerHub MACE folder.
+- write about yourself inside the md file
+- PR for your first contribution
 
 ## Resources
 
