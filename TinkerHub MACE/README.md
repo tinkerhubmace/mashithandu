@@ -3,10 +3,15 @@
 
 ###  Just 3 steps 💡
 - Create a fork of this repo (tinkerhubmace/mashithandu) to your account.
+<br>
 ![alt text](./images/Img1.jpg)
-![alt text](./images/Img2.jpg)
-![alt text](./images/Img3.jpg)
+<br>
 - Create a readme file with your name (eg: Kiran.md) inside 'TinkerHub Mace' Folder and add your contribution. (How about you introduce or write something about yourself!)
+<br>
+![alt text](./images/Img2.jpg)
+<br>
+![alt text](./images/Img3.jpg)
+<br>
 - Create a pull request.
 
 ### Creating a pull request
