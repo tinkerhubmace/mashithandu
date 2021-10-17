@@ -32,11 +32,12 @@ After committing and pushing your changes go to your fork and create a pull requ
 ## Resources
 
 A list of Git/GitHub-related resources that might be helpful here. 🤩 <br/>
-<a href='https://guides.github.com/introduction/git-handbook/'> Git-Handbook </a>
+<a href='https://guides.github.com/introduction/git-handbook/'> Git-Handbook </a> <br/>
+<a href='https://pattern-filament-145.notion.site/idk-git-github-how-will-i-contribute-bd54b6176c224e4d8de653d229747ad6'> Git/GitHub and Hacktoberfest </a>
 
 ## Contacts
 
 Have any queries? Do reach out to our Tech Leads 💯
 
-Kiran S Baliga - kiransbaliga@gmail.com
+Kiran S Baliga - kiransbaliga@gmail.com <br/>
 Athul John - athulpulickaljohn@gmail.com
