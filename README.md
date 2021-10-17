@@ -7,7 +7,7 @@
 
 - [About this repo](#about-this-repo)
 - [Students Instructions](#students-instructions)
-  - [For this repo](#for-this-repo)
+  - [Fork this repo](#fork-this-repo)
   - [Contribute](#contribute)
   - [Create a pull request](#create-a-pull-request)
 - [Campus Instructions](#campus-instructions)
