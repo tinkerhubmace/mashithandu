@@ -27,7 +27,7 @@ This is a repo for beginners to experience the path of open source contribution
   
 ## Students Instructions
 
-###  For this repo
+###  Fork this repo
 Create a fork of this repo to your account.
 ``` 
 💡 search StackOverflow on how to Fork a repo in GitHub
