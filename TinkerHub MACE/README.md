@@ -13,7 +13,7 @@ After committing and pushing your changes go to your fork and create a pull requ
 ## Resources
 
 A list of Git/GitHub-related resources that might be helpful here.
-<a href='https://guides.github.com/introduction/git-handbook/'></a>
+<a href='https://guides.github.com/introduction/git-handbook/'> Git-Handbook </a>
 
 ## Contacts
 
