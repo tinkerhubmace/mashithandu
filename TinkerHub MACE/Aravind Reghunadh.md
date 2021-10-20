@@ -2,7 +2,7 @@
 
 <h2>if you are into: </h1>
 <h3>Anime</h3>
-![alt text](https://user-images.githubusercontent.com/60535146/138089975-c2afe059-3102-450c-b8de-a926688ef62a.jpg "ANIME")
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/60535146/138089975-c2afe059-3102-450c-b8de-a926688ef62a.jpg" />
 <h3> Movies and Series</h3>
 ![3658604](https://user-images.githubusercontent.com/60535146/138090564-5005b830-ad53-484c-847c-bf00a3425fab.jpg)
 <h3>Games</h3>
